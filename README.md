@@ -70,7 +70,7 @@ Aqui no meu GitHub você vai encontrar projetos de estudo, experimentos e aplica
 
 ###
 
-<img src="https://raw.githubusercontent.com/guiesteves/guiesteves/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/guiresteves/guiresteves/output/snake.svg" alt="Snake animation" />
 <!--
 **guiresteves/guiresteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
