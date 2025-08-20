@@ -1,5 +1,14 @@
-## Hi there 👋
+# Olá👋, eu sou o Guilherme Esteves
 
+Sou estudante de **Ciência da Computação** e apaixonado por **tecnologia e programação**.
+Atualmente estou aprendendo e explorando:
+
+- 💻 Desenvolvimento **Back-End** e **Front-End**
+- 📊 **Banco de Dados** e **Estruturas de Dados**
+- ⚡ **Java**, **JavaScript**, **Node.Js**, **React**, **Python**, **C#**
+- 📚 Sempre buscando aprender mais sobre **arquitetura de software**, **boas práticas** e **novas tecnologias**
+
+Aqui no meu GitHub você vai encontrar projetos de estudo, experimentos e aplicações que refletem minha jornada como desenvolvedor. 🚀
 <!--
 **guiresteves/guiresteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
