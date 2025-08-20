@@ -71,12 +71,6 @@ Aqui no meu GitHub você vai encontrar projetos de estudo, experimentos e aplica
 ###
 
 <img src="https://raw.githubusercontent.com/guiesteves/guiesteves/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
 <!--
 **guiresteves/guiresteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
